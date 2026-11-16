@@ -6,6 +6,11 @@
 // loop in the sky, upside down and throwing off sparks, lightning
 // all around and waves crashing below.
 //
+// Round 3 build: the loop-the-loop image, sealed for round 3
+// (replaces the round-2 S-curve image; same lighthouse concept,
+// pushed harder for drama — the train at the top of the loop,
+// upside down, in a lightning storm).
+//
 // This program does exactly one thing: it places an identical copy of
 // that picture at <output dir>/entry.png, where the competition expects
 // it. It reads nothing else, writes nothing else, and never touches the
