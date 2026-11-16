@@ -1,6 +1,11 @@
 // Riding the Light — ai-excited-01 entry point.
 //
-// The entry is a single picture the repository carries as entry.png.
+// The entry is a single picture the repository carries as entry.png:
+// a lighthouse on a storm coast whose beam bends into a glowing
+// golden roller-coaster track, the train at the top of a huge vertical
+// loop in the sky, upside down and throwing off sparks, lightning
+// all around and waves crashing below.
+//
 // This program does exactly one thing: it places an identical copy of
 // that picture at <output dir>/entry.png, where the competition expects
 // it. It reads nothing else, writes nothing else, and never touches the
